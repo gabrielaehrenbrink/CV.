@@ -8,6 +8,7 @@ As a Junior Software Developer with expertise in Javascript, Python, Flask, HTML
 
 | Name                         | Description       | Tech/tools        |
 | ---------------------------- | ----------------- | ----------------- |
+| **RecipEasy**            |In the midst of agile development, we are actively creating a web application dedicated to the seamless management of recipes sourced from various websites, emphasizing efficiency in meal preparation. Anticipate ongoing enhancements that will elevate both functionality and user experience, making this platform an essential tool for culinary enthusiasts and home cooks.| JavaScript, HTML, CSS, MERN (MongoDB, ExpressJS, React, Node), Tailwind |
 | **Acebook**            |This collaborative 2 week project leverages the MERN stack, with MongoDB for the database, Express.js and Node.js for the backend, and a frontend powered by JavaScript, HTML, CSS, and React. The platform enables users to create accounts, share posts with multimedia content, edit profiles, and explore content from other members, fostering an interactive online community. The team prioritizes testing and code quality, implementing rigorous testing protocols to ensure the reliability and stability of the application| JavaScript, HTML, CSS, MERN (MongoDB, ExpressJS, React, Node), Bicrypt |
 | **Makersbnb** | This collaborative project, developed through a group effort, demonstrates a fusion of technical skills encompassing Python, Flask, PostgreSQL, Pytest, HTML/CSS, Pair Programming, Object Oriented Programming, and Test-Driven Development. The result is an Airbnb-like application with an inclusive set of features, including a landing page for listings, user-friendly account creation, seamless booking functionality, and the ability to post listings. The backend, fortified with Flask and PostgreSQL, ensures robustness, underscoring a commitment to code reliability through Test-Driven Development and Pytest. Quality is further enriched by employing techniques such as Pair Programming and Object-Oriented Programming. | Python, Flask, PostgreSQL, Pytest, HTML/CSS, Pair Programming, Object Oriented Programming, Test-Driven Development |
 | **Chitter** | This is a Twitter-like application crafted using Python, Flask App, PostgreSQL, HTML, CSS, and JavaScript, the application empowers users to seamlessly sign up, log in, and post messages on a public board. The development process adheres to Test-Driven Development (TDD) principles, underscoring a dedication to code quality. |Python, Flask App, PostgreSQL, HTML, CSS, JavaScript, Test-Driven Development (TDD). 
@@ -44,6 +45,12 @@ As a Junior Software Developer with expertise in Javascript, Python, Flask, HTML
 - Applied theoretical knowledge into practical settings through internships and hands-on experiences, developing effective teaching methodologies and strategies to promote physical well-being and fitness among diverse populations.
 
 ## Work Experience
+
+**Prosper** (Apr 2024 - Present)
+*Software Engineering Intern*
+- Website Development: Lead the development of the company's investment calculator using Webflow, Figma, Javascript, HTML, and CSS.
+- App development: Supported the creation and enhancement of the investment app.
+- Innovation and Collaboration: Worked closely with the CPTO, integrating third-party services to enhance the app's capabilities. 
 
 **TEN Health and Fitness** (Jan 2023 - Present)  
 *Clinical Trainer and Reformer Pilates Instructor*
